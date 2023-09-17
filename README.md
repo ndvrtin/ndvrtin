@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ndvrtin
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning SQL and web design
+- 💞️ I’m looking to collaborate on anything and everything
+- 📫 How to reach me: message me!
